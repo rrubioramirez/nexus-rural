@@ -50,3 +50,4 @@ The resulting composite became the visual reference for video generation.
 Video prompts focused primarily on camera movement, character action, environmental motion, and preserving continuity with the source frame rather than redesigning the image.
 
 → `video-prompt.md`
+
