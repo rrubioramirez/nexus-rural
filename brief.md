@@ -29,16 +29,21 @@ Movement remains simple and motivated, favoring slow pushes, tracking shots, and
 ## OUTLINE
 
 * **0.0 to 18.0 — Three territories, three innovators**
+
   Environmental portraits introduce each protagonist through their landscape and field of work, moving between medium character shots, wider geography, and practical details.
 
 * **18.0 to 33.0 — Convergence**
+  
   The three stories come together through shared frames, digital interfaces, and the Nexus Rural identity, shifting the film from individual innovation toward a connected network.
 
 * **33.0 to 47.0 — Technology within the landscape**
+  
   Forward-moving agricultural imagery combines crops, infrastructure, and digital overlays, presenting technology as something embedded in rural systems rather than separate from them.
 
 * **47.0 to 62.0 — Community and opportunity**
+  
   Wider scenes expand the focus from individual innovators to people, collaboration, and local ecosystems, ending on a more human and relational note.
 
 * **62.0 to 68.0 — End card**
+  
   Static branded frame with Nexus Rural, FIDA, and Procasur identities.
