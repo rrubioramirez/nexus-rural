@@ -1,6 +1,6 @@
 # NEXUS RURAL — Launch Video, multi-shot narrative piece with internal cuts across three locations and characters.
 
-A 1-minute social media video to encourage young innovators from rural communities across Latin America to apply for the award. Voice-over narration and initial structure was already defined, but more recognizable characters were introduced to give the piece a stronger narrative direction.
+A 1-minute social media video to encourage young innovators from rural communities across Latin America to apply for the award. Voice-over narration and initial structure were already defined, but more recognizable characters were introduced to give the piece a stronger narrative direction.
 
 ## CHARACTERS
 
