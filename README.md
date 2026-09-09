@@ -6,7 +6,7 @@ Voice-over narration and the initial structure were already locked. The work doc
 
 → [`visual-treatment.md`](visual-treatment.md)
 
-→ [`README-workflow.md`](README-workflow.md)
+→ [`workflow.md`](workflow.md)
 
 ## Role
 
@@ -81,7 +81,7 @@ Four image stages, then edit:
 
 5. CapCut — VO, rhythm, end card.
 
-Shot-level notes: [`README-workflow.md`](README-workflow.md)
+Shot-level notes: [`workflow.md`](workflow.md)
 
 ## Process stills
 
