@@ -85,8 +85,6 @@ Shot-level notes: [`workflow.md`](workflow.md)
 
 ## Process stills
 
-Put these four images here, in this order. They are already in assets/.
-
 1. Character reference
 
 ![Female lead — Midjourney reference](assets/female-lead.png)
